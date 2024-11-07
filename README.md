@@ -4,11 +4,7 @@
 Driven by a passion for technology and gaming, seeking exciting new projects.
 - Computer Software Engineering at FIAP
 
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dudaferres&show_icons=true&count_private=true&hide_border=true&title_color=D98997&icon_color=D98997&text_color=D98997&bg_color=482B30" alt="Maria Eduarda github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudaferres&layout=compact&hide_border=true&title_color=D98997&text_color=D98997&bg_color=482B30" />
-</div>
+##
 
 ### Social Media
 
