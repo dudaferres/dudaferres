@@ -9,7 +9,6 @@ Driven by a passion for technology and gaming, seeking exciting new projects.
 ### Social Media
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-7F4C55?style=for-the-badge&logo=linkedin&logoColor=FFF)](https://www.linkedin.com/in/mariaeduardaferres/)
-[![Instagram](https://img.shields.io/badge/-Instagram-9E5F69?style=for-the-badge&logo=instagram&logoColor=FFF)](https://www.instagram.com/dudaferres/)
 
 ### I code with
 ![HTML5](https://img.shields.io/badge/html5-472B30.svg?style=for-the-badge&logo=html5&logoColor=white) 
