@@ -3,6 +3,7 @@
 
 Driven by a passion for technology and gaming, seeking exciting new projects.
 - Computer Software Engineering at FIAP
+- Let's get in touch: *dudaferress@gmail.com**
 
 ##
 
