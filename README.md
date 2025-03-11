@@ -7,14 +7,15 @@ Driven by a passion for technology and gaming, seeking exciting new projects.
 
 ##
 
-### Social Media
+## Social Media
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-7F4C55?style=for-the-badge&logo=linkedin&logoColor=FFF)](https://www.linkedin.com/in/mariaeduardaferres/)
 
-### I code with
-![HTML5](https://img.shields.io/badge/html5-472B30.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-6B4047.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-8A535C.svg?style=for-the-badge&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/python-9E5F69?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-BD717E?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+## Tech Stacks
+
+### Languages
+<img src="https://img.shields.io/badge/HTML5-472B30?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-6B4047?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-8A535C?style=for-the-badge&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/Python-9E5F69?style=for-the-badge&logo=python&logoColor=white" />  <img src="https://img.shields.io/badge/C%2B%2B-BD717E?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-BD717E?style=for-the-badge&logo=typescript&logoColor=white" />
+
+### Frameworks & Libraries
+<img src="https://img.shields.io/badge/React-472B30?style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-6B4047?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-8A535C?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-9E5F69?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 
