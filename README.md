@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=35&pause=500&color=FF0067&random=false&width=435&lines=Hello,+I'm+Maria!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=35&pause=500&color=FF0067&random=false&width=435&lines=Hello,+I'm+Maria+Eduarda!)](https://git.io/typing-svg)
 
 
 Driven by a passion for technology and gaming, seeking exciting new projects.
